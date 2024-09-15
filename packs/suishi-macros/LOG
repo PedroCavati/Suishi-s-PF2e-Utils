@@ -1,3 +1,4 @@
 2024/09/15-18:28:08.810732 70000fba2000 Recovering log #33
 2024/09/15-18:28:08.812424 70000fba2000 Delete type=3 #32
 2024/09/15-18:28:08.812589 70000fba2000 Delete type=0 #33
+2024/09/15-18:45:14.920826 700008af5000 Manual compaction at level-0 from '!macros!xXKQMG99tEV2dXH5' @ 72057594037927935 : 1 .. '!macros!xXKQMG99tEV2dXH5' @ 0 : 0; will stop at (end)

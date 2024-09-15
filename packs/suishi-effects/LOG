@@ -1,3 +1,5 @@
 2024/09/15-18:28:08.804098 70000eb9c000 Recovering log #31
 2024/09/15-18:28:08.805685 70000eb9c000 Delete type=3 #30
 2024/09/15-18:28:08.805854 70000eb9c000 Delete type=0 #31
+2024/09/15-18:45:14.919728 700008af5000 Manual compaction at level-0 from '!items!yqnGKPEbWS2n33nq' @ 72057594037927935 : 1 .. '!items!yqnGKPEbWS2n33nq' @ 0 : 0; will stop at (end)
+2024/09/15-18:45:14.919793 700008af5000 Manual compaction at level-1 from '!items!yqnGKPEbWS2n33nq' @ 72057594037927935 : 1 .. '!items!yqnGKPEbWS2n33nq' @ 0 : 0; will stop at (end)
