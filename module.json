@@ -1,0 +1,65 @@
+{
+  "id": "suishis-pf2e-utils",
+  "title": "Suishi's PF2e Utils",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Suishi",
+      "discord": "pedrocavati",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "suishi-actions",
+      "label": "Suishi's Actions",
+      "path": "packs/suishi-actions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "suishi-items",
+      "label": "Suishi's Items",
+      "path": "packs/suishi-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "suishi-effects",
+      "label": "Suishi's Effects",
+      "path": "packs/suishi-effects",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "suishi-macros",
+      "label": "Suishi's Macros",
+      "path": "packs/suishi-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
