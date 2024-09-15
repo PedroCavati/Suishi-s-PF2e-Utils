@@ -1,7 +1,8 @@
 {
   "id": "suishis-pf2e-utils",
   "title": "Suishi's PF2e Utils",
-  "version": "1.0.0",
+  "version": "0.2",
+  "system": "pf2e",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -62,7 +63,14 @@
       "flags": {}
     }
   ],
+  "packFolders": [
+  {
+    "name": "Suishi's PF2e Utils",
+    "sorting": "m",
+    "packs": ["suishi-actions","suishi-items","suishi-effects","suishi-macros"]
+  }
+],
   "url": "https://github.com/PedroCavati/suishis-pf2e-utils",
   "download": "https://github.com/PedroCavati/suishis-pf2e-utils/releases/tag/v0.1",
-  "manifest": "https://github.com/PedroCavati/suishis-pf2e-utils/releases/download/v0.1/module.json”
+  "manifest": "https://github.com/PedroCavati/suishis-pf2e-utils/releases/download/v0.1/module.json"
 }
