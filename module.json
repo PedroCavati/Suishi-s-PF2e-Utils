@@ -61,5 +61,8 @@
       },
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/PedroCavati/suishis-pf2e-utils",
+  "download": "https://github.com/PedroCavati/suishis-pf2e-utils/releases/tag/v0.1",
+  "manifest": "https://github.com/PedroCavati/suishis-pf2e-utils/releases/latest/download/manifest.json”
 }
