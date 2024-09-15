@@ -61,13 +61,24 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "name": "suishi-actors",
+      "label": "Suishi's Actors",
+      "path": "packs/suishi-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
   {
     "name": "Suishi's PF2e Utils",
     "sorting": "m",
-    "packs": ["suishi-actions","suishi-items","suishi-effects","suishi-macros"]
+    "packs": ["suishi-actions","suishi-items","suishi-effects","suishi-macros","suishi-actors"]
   }
 ],
   "url": "https://github.com/PedroCavati/suishis-pf2e-utils",
