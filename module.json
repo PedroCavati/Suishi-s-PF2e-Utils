@@ -52,6 +52,18 @@
       "flags": {}
     },
     {
+      "name": "suishi-feats",
+      "label": "Suishi's Feats",
+      "path": "packs/suishi-feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
       "name": "suishi-items",
       "label": "Suishi's Items",
       "path": "packs/suishi-items",
@@ -91,7 +103,7 @@
   {
     "name": "Suishi's PF2e Utils",
     "sorting": "m",
-    "packs": ["suishi-actions","suishi-classes","suishi-class-features","suishi-items","suishi-effects","suishi-macros"]
+    "packs": ["suishi-actions","suishi-classes","suishi-class-features","suishi-feats","suishi-items","suishi-effects","suishi-macros"]
   }
 ],
   "url": "https://github.com/PedroCavati/suishis-pf2e-utils",
