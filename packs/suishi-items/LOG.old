@@ -1,3 +1,5 @@
-2024/09/15-18:03:29.357671 700013740000 Recovering log #28
-2024/09/15-18:03:29.359107 700013740000 Delete type=0 #28
-2024/09/15-18:03:29.359249 700013740000 Delete type=3 #26
+2024/09/15-18:28:08.796537 70000e399000 Recovering log #31
+2024/09/15-18:28:08.798158 70000e399000 Delete type=3 #30
+2024/09/15-18:28:08.798328 70000e399000 Delete type=0 #31
+2024/09/15-18:45:14.919678 700008af5000 Manual compaction at level-0 from '!folders!tYAxgPiez0Hn0DrQ' @ 72057594037927935 : 1 .. '!items!rDnlCawyNmGqbgDd' @ 0 : 0; will stop at (end)
+2024/09/15-18:45:14.919772 700008af5000 Manual compaction at level-1 from '!folders!tYAxgPiez0Hn0DrQ' @ 72057594037927935 : 1 .. '!items!rDnlCawyNmGqbgDd' @ 0 : 0; will stop at (end)
