@@ -1,7 +1,7 @@
 {
   "id": "suishi-s-pf2e-utils",
   "title": "Suishi's PF2e Utils",
-  "version": "0.3",
+  "version": "0.4",
   "system": "pf2e",
   "compatibility": {
     "minimum": "12",
